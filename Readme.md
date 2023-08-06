@@ -29,15 +29,15 @@ python Assignment454
 
 #### Assignment45-1
 
-![preview image](/OpenVtuber/Output/result_lip_eyes%20on%20fruit.jpg)
+![preview image](/Output/result_lip_eyes%20on%20fruit.jpg)
 
 #### Assignment45-2
 
-![preview image](/OpenVtuber/Output/result_rotatedFace.jpg)
+![preview image](/Output/result_rotatedFace.jpg)
 
 #### Assignment45-3
 
-![preview image](/OpenVtuber/Output/mrbean%20output.jpg)
+![preview image](/Output/mrbean%20output.jpg)
 
 #### Assignment45-4
-![preview image](/OpenVtuber/Output/result_lip_eyes%20on%20face.jpg)
+![preview image](/Output/result_lip_eyes%20on%20face.jpg)
